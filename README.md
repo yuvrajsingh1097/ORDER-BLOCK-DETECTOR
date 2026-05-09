@@ -11,3 +11,6 @@ pandas + numpy — detection and status logic
 matplotlib — candlestick chart with overlaid OB zones
 mplfinance — helper for financial chart styling
 pytest — unit tests for all core functions
+
+
+TRADE WITH MARKING ASIAN AND LONDON HGIHS AND LOWS WITH TAKING TRADES IN NY SESSION 
